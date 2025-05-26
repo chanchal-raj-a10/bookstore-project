@@ -8,7 +8,7 @@ A simple Book Store web application built with Laravel (PHP) and Vite. This proj
 
 <div align="center">
   
-[![Book Store Laravel Demo](https://github.com/noobdevsam/book-store-laravel-project/blob/master/resources/Screenshot2025-05-22.png)](https://youtu.be/MxATPW3Ew_E?feature=shared)
+[![Book Store Laravel Demo](https://github.com/noobdevsam/book-store-laravel-project/blob/master/resources/Screenshot2025-05-22.png)](https://youtu.be/plTSLsETLnM)
 
 </div>
 
